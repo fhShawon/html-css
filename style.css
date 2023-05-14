@@ -1,0 +1,10 @@
+p{color:firebrick; font-family:comic sans ms;background-color:orange}
+h1{background-color:firebrick; color:white}
+a:link{color:red; text-decoration:none; }
+a:hover{background-color:; color:red; text-decoration:underline;}
+a:visited{color:white; text-decoration:underline;}
+a:active{color:black;}
+p>a:link{color:red; text-decoration:none; }
+p>a:hover{background-color:; color:white; text-decoration:underline;}
+p>a:visited{color:green; text-decoration:underline;}
+p>a:active{color:black;}
